@@ -33,10 +33,10 @@ the area, perimeter, color, and true or false to indicate whether it is filled o
         - Faculty office hours and a rank
         - Staff title
 
-A person has a name, address, phone number, and e-mail address. A student has a class status (fresh-man, sophomore, junior, or senior).
-An employee has an office, salary, and date hired. A faculty member has office hours and a rank. A staff member has a title. 
-Override the toString method in each class to display the fields of the class.
-Write a test program that creates a Person , Student , Employee , Faculty , and Staff, and invokes their toString() methods.
+    A person has a name, address, phone number, and e-mail address. A student has a class status (fresh-man, sophomore, junior, or senior).
+    An employee has an office, salary, and date hired. A faculty member has office hours and a rank. A staff member has a title. 
+    Override the toString method in each class to display the fields of the class.
+    Write a test program that creates a Person , Student , Employee , Faculty , and Staff, and invokes their toString() methods.
 
 
 2. In Programming Exercise 9.7, the Account class was defined to model a bank account.
